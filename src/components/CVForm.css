@@ -1,0 +1,14 @@
+fieldset {
+    display: flex;
+    flex-direction: column;
+    /* gap: 10px; */
+}
+
+label {
+    display: flex;
+    align-self: left;
+}
+
+button {
+    margin-top: 10px;
+}
